@@ -1,4 +1,1 @@
-folium
-branca
-csv
-jinja2
+folium==0.6.0
