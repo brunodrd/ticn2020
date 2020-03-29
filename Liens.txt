@@ -6,3 +6,6 @@ Lien aide (voir notamment la section "Conseils pour la mise en oeuvre":
 
 http://kastlernumerique.fr/index.php/isn-specialite-terminale-s/projets/au-bac/
 ******************************************************************************
+
+Mybinder: permet de lancer des notebook en ligne
+https://mybinder.org
