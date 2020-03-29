@@ -1,0 +1,4 @@
+folium==0.6.*
+branca==0.3.*
+csv==1.*
+jinja2==2.10.*
