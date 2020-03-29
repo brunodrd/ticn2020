@@ -1,0 +1,44 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/pop/Documents/TICN2020/Steganographie
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://127.0.0.1:8888/?token=8a2bdecc2e33ab7aabf9b61681f2873341b5a67452fc57f4
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-4642-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=8a2bdecc2e33ab7aabf9b61681f2873341b5a67452fc57f4
+[NotebookApp | INFO] Kernel started: e3e14160-5e02-4da0-8ab9-a452426c53ff
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3e14160-5e02-4da0-8ab9-a452426c53ff
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | INFO] Kernel shutdown: e3e14160-5e02-4da0-8ab9-a452426c53ff
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /media/pop/data1/TICN/TICN2020/Steganographie
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://127.0.0.1:8888/?token=0aa385879222198277dcbefcb5c2ac7535357a8cdb052518
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-6288-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/?token=0aa385879222198277dcbefcb5c2ac7535357a8cdb052518
+[NotebookApp | INFO] 302 GET /?token=0aa385879222198277dcbefcb5c2ac7535357a8cdb052518 (127.0.0.1) 1.32ms
+[NotebookApp | WARNING] Notebook Stegano_fonctions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4b0c22be-b660-472d-bd51-6a252f84250f
+[NotebookApp | WARNING] 404 GET /notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[NotebookApp | WARNING] 404 GET /notebooks/biblio.bib (127.0.0.1) 206.12ms referer=http://127.0.0.1:8888/notebooks/Stegano_fonctions.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4b0c22be-b660-472d-bd51-6a252f84250f
+[NotebookApp | INFO] Saving file at /Stegano_fonctions.ipynb
+[NotebookApp | WARNING] Notebook Stegano_fonctions.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Stegano_fonctions.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 4b0c22be-b660-472d-bd51-6a252f84250f:6ae3b6f112b546c895ffe1ea8d85c7b9
